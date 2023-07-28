@@ -14,7 +14,7 @@ I personally have no use for these files / scripts anymore, and they were mine t
 
 ## Usage
 
-[set-one](./batches/set-one/) contains files from a fully fledged event that took place last year, and [set-two](./batches/set-two/) is a compilation of files that I will be updating as I find.
+[set-one](./batches/set-one/) contains files from events and [set-two](./batches/set-two/) is a compilation of files that I will be updating as I find.
 
 To view the source code, click [here](./batches/set-one/src/). *(links redirect to the first set of uploads)*
 
