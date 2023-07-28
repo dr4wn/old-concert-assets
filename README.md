@@ -5,7 +5,7 @@
 
 ## Reasoning
 
-I personally have no use for these files / scripts anymore, and they were mine to begin with, so I have no issue putting it out for people to use. There are some files such as the *Anti Collision / Camera Lock* that has been around for months or years, please do not antagonize me on those, as those are scripts that were grabbed from already public sources, also it is recommended you update the anti collision as the method provided in this repository is deprecated.
+I personally have no use for these files / scripts anymore, and they were mine to begin with, so I have no issue putting it out for people to use. There are some files such as the *Anti Collision / Camera Lock* that has been around for months or years, please do not antagonize me on those, as those are scripts that were grabbed from already public sources (or just not writte by me), also it is recommended you update the anti collision as the method provided in this repository is deprecated.
 
 ## ⚠️ Disclaimer 
 **A lot of this code is outdated. I would not write this today.**
